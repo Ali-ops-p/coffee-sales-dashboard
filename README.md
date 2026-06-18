@@ -46,6 +46,8 @@ Data is completely useless if it doesn't tell a story. Here is what the numbers 
 2. Open coffee_Orders_Dataset_Solution.xlsx.
 3. Play around with the dashboard slicers to see how the charts automatically adapt and update on the fly!
 
+---
+
 ### 👋 Let's Connect!
 
 Thank you for checking out my project! I love talking about data strategy, visualization best practices, or business analytics. 
